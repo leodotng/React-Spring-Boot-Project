@@ -1,0 +1,11 @@
+{
+  "name": "react-java-project",
+  "version": "1.0.0",
+  "description": "Project React Java & Spring Boot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Leong",
+  "license": "MIT"
+}

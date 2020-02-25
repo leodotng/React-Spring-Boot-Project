@@ -1,0 +1,2 @@
+Project to understand React working together with Spring Boot.
+[Package Your React App with Spring Boot [A How-To Guide]](https://hackernoon.com/package-your-react-app-with-spring-boot-a-how-to-guide-cdfm329w)
